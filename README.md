@@ -26,8 +26,8 @@
 <br>
 
 <h2>Tech Stack</h2>
-<li>PYTHON</li>
-
+<b>- PYTHON</b>
+<br>
 <h1>1. 7 UP and 7 DOWN 🎲🎲</h1>
 •This is a game played on basis of prediction where the user have to guess whether the number will be more than 7 or less than 7.<br>
 •In this game the user have to guess that the number will be more than 7 or less than or equal to 7. <br>
