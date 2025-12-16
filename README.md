@@ -85,8 +85,7 @@
 •	If the  user ends at a number where there is a ladder it will move forward or climb the ladder.<br>
 <br>
 <b>•	Functions created:</b></br>
-<code>dice()
-Snl()
+<code>dice() Snl()
 </code>
 <br>
 <b>• In dice() function :</b>
