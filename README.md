@@ -2,10 +2,9 @@
 
 <h2>OVERVIEW 💡</h2>
 <h4>
-•	This repository includes projects for beginners who have keen interest in learning python programming language. <br>
-•	There are 4 projects and each project has included the core of python.<br>
+   •This repository includes projects for beginners who have keen interest in learning python programming language. <br>
+   •There are 4 projects and each project has included the core of python.<br>
 </h4>
-
 <h2>Concepts Covered 📌</h2> 
 •	 Conditional Statement (if -elif – else )<BR>
 •	Loops (for loop , while loop , Break)<br>
@@ -14,15 +13,25 @@
 •	Lists , dictionary <br>
 </br>
 
+<br>
 <h2>Requirement</h2>
-<code>Python version: Python(3.11.5)</code><br>
-<code>Modules: Random</code><br>
-<code>IDE/Code Editor : VS Code</code><br>
+<b>Python version</b>
+<br>
+-Python(3.11.5)<br>
+<br>
+<b>IDE/Code Editor</b>
+<br>
+-VS Code
+</br>
+<br>
+
+<h2>Tech Stack</h2>
+<li>PYTHON</li>
 
 <h1>1. 7 UP and 7 DOWN 🎲🎲</h1>
-•	This is a game played on basis of prediction where the user have to guess whether the number will be more than 7 or less than 7.<br>
-•	In this game the user have to guess that the number will be more than 7 or less than or equal to 7. <br>
-•	If the guess is same as users guess then they won the game , else they loose.<br>
+•This is a game played on basis of prediction where the user have to guess whether the number will be more than 7 or less than 7.<br>
+•In this game the user have to guess that the number will be more than 7 or less than or equal to 7. <br>
+•If the guess is same as users guess then they won the game , else they loose.<br>
 <br>
 <b>•	In this project we have created 2 different functions:</b> <br>
         -  Roll_dice() 🎲<br>
@@ -91,5 +100,17 @@ Snl()
 •	Used while loop to roll the dice each time user want it the total is equal to 100 they won the game , else it will keep running until the user reaches to 100.
 <br>
 <br>
+
+
+<h2>Author</h2> 
+**Sakshi Drolia**<br>
+👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
+📩 Email   : droliasakshi601@gmail.com <br>
+🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
+
+
+<h2>Credits </h2>
+**Future Vision Computer Institute**
+
 <b><p>⭐ If you found this repository useful, consider giving it a star!</p>
     <p>Happy Coding 🐍✨</p></b>
