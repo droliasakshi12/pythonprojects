@@ -1,10 +1,12 @@
 <h1>PYTHON 🐍</h1>
 
 <h2>OVERVIEW 💡</h2>
+
 <h4>
    •This repository includes projects for beginners who have keen interest in learning python programming language. <br>
    •There are 4 projects and each project has included the core of python.<br>
 </h4>
+<br>
 <h2>Concepts Covered 📌</h2> 
 •	 Conditional Statement (if -elif – else )<BR>
 •	Loops (for loop , while loop , Break)<br>
@@ -12,8 +14,6 @@
 •	Python Standard Libraries.<br>
 •	Lists , dictionary <br>
 </br>
-
-<br>
 <h2>Requirement</h2>
 <b>Python version</b>
 <br>
@@ -24,9 +24,9 @@
 -VS Code
 </br>
 <br>
-
 <h2>Tech Stack</h2>
 <b>- PYTHON</b>
+<br>
 <br>
 <h1>1. 7 UP and 7 DOWN 🎲🎲</h1>
 •This is a game played on basis of prediction where the user have to guess whether the number will be more than 7 or less than 7.<br>
@@ -66,11 +66,14 @@
 -	Validatepass()
 </code>
 <br>
-<b>•	checkPass() :<br></b>
+
+<b>•	checkPass() :</b>
+<br>
 -	used the <b>Global</b> keyword  (variables that can be used outside the functions)<br>
 -	Checking if everything is False. <br>
 -	Used for loop to check the length  of the password , this is done to identify the strength of the password.<br>
 <br>
+
 <b>•	Validatepass():</b><br>
 -	Taking the password input from the user  <br>
 -	Checking if the password is ‘Strong’ , ‘Moderate’ , ‘weak’<br>
@@ -79,7 +82,6 @@
 <br>
 
 <h1>4.Snake and Ladders 🐍🪜</h1><br>
-
 •	In this game there can be multiple players they have to roll the dice and have to make the move according to the number in dice. <br>
 •	If the user ends at a number where there is a snake it will come backward or eaten by the snake. <br>
 •	If the  user ends at a number where there is a ladder it will move forward or climb the ladder.<br>
@@ -100,16 +102,16 @@
 <br>
 <br>
 
-
-<h2>Author</h2> 
-**Sakshi Drolia**<br>
 👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
 📩 Email   : droliasakshi601@gmail.com <br>
 🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
-
-
-<h2>Credits </h2>
-**Future Vision Computer Institute**
-
+</br>
+<h4>Credits</h4>
+<b></b>Future Vision Computer Institute</b>
+<br>
+<br>
 <b><p>⭐ If you found this repository useful, consider giving it a star!</p>
     <p>Happy Coding 🐍✨</p></b>
+</br>
+<b><h5>Author</h5></b>
+<b>Sakshi Drolia</b>
