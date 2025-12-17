@@ -100,18 +100,16 @@
 <br>
 •	Used while loop to roll the dice each time user want it the total is equal to 100 they won the game , else it will keep running until the user reaches to 100.
 <br>
-<br>
+
+<b><p>⭐ If you found this repository useful, consider giving it a star!</p>
+    <p>Happy Coding 🐍✨</p></b>
 
 👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
 📩 Email   : droliasakshi601@gmail.com <br>
 🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
-</br>
 <h4>Credits</h4>
-<b></b>Future Vision Computer Institute</b>
+<b></b>Future Vision Computer Institute</b><BR>
+🌐 Website : https://futurevisioncomputers.com/
 <br>
-<br>
-<b><p>⭐ If you found this repository useful, consider giving it a star!</p>
-    <p>Happy Coding 🐍✨</p></b>
-</br>
 <b><h5>Author</h5></b>
 <b>Sakshi Drolia</b>
