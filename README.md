@@ -1,5 +1,5 @@
 <h1>PYTHON 🐍</h1>
-<img src="python.jpg" alt="Alt text" width="1000" height="1000">
+
 
 
 <h2>OVERVIEW 💡</h2>
