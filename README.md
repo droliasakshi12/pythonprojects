@@ -1,7 +1,7 @@
 <h1>PYTHON 🐍</h1>
-
-
-
+<p align="center"> 
+   <img src="py.jpg" alt="Alt text" width="200" height="200">
+</p>
 <h2>OVERVIEW 💡</h2>
 
 <h4>
