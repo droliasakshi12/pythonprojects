@@ -104,7 +104,7 @@
 <br>
 
 <b><p>⭐ If you found this repository useful, consider giving it a star!</p>
-    <p>Happy Coding 🐍✨</p></b>
+<p>Happy Coding 🐍✨</p></b>
 
 👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
 📩 Email   : sakshidrolia12@gmail.com <br>
