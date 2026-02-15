@@ -103,8 +103,22 @@
 •	Used while loop to roll the dice each time user want it the total is equal to 100 they won the game , else it will keep running until the user reaches to 100.
 <br>
 
-<h1>5.Rent Calculato📱</h1><br>
-``` bash 
+<h1>5.Rent Calculator📱</h1>
+<br>
+<pre><code> 
+rent_input = int(input("Enter your total  rent:"))
+food = int(input("enter amount spent on food:"))
+electricity = int(input("enter amount spent on electricity:"))
+
+charge_per_unit = int(input("Enter the charge per unit:"))
+
+no_of_person = int(input("enter the total number of person in the room:"))
+
+total_electricity_charge = electricity*charge_per_unit
+
+output = (rent_input + food + total_electricity_charge)//no_of_person
+print("each person will pay: ",output)
+</code></pre>
 
 <b><p>⭐ If you found this repository useful, consider giving it a star!</p>
 <p>Happy Coding 🐍✨</p></b>
