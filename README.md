@@ -103,6 +103,9 @@
 •	Used while loop to roll the dice each time user want it the total is equal to 100 they won the game , else it will keep running until the user reaches to 100.
 <br>
 
+<h1>5.Rent Calculato📱</h1><br>
+``` bash 
+
 <b><p>⭐ If you found this repository useful, consider giving it a star!</p>
 <p>Happy Coding 🐍✨</p></b>
 
