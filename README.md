@@ -104,6 +104,8 @@
 <br>
 
 <h1>5.Rent Calculator📱</h1>
+- A beginner Friendly python projects to get the amount of rent and extra expenses.
+- It helps to equally divide the amount between the number of people they want.
 <br>
 <pre><code> 
 rent_input = int(input("Enter your total  rent:"))
